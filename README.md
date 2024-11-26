@@ -1,24 +1,21 @@
-UNIVERSIDAD PRIVADA NORBERT WIENER ESCUELA DE INGENIERÍA Y NEGOCIOS
+# Alarma que Reconoce Armas, Dinamitas, Granadas y Personas
 
-CARRERA DE INGENIERIA DE SISTEMAS
+## Universidad Privada Norbert Wiener
+### Escuela de Ingeniería y Negocios
+### Carrera de Ingeniería de Sistemas
 
+**Descripción del Proyecto:**
+Este proyecto consiste en una alarma que reconoce armas, dinamitas, granadas y a las personas que los posean. La alarma emite un sonido y envía alertas en caso de detección.
 
-ALARMA QUE RECONOCE ARMAS, DINAMITAS, GRANADAS Y A LAS PERSONAS QUE LOS POSEAN, QUE EMITE ALARMA Y ENVÍA ALERTAS.
+## Integrantes del Proyecto:
+- **Oscar Cancho Huanca**
+- **Esteban Mendoza Huarcaya**
+- **Gino Lopez Silva**
+- **Franco Fajardo Cabrel**
+- **Royer Enriquez Andrade**
 
+## Curso:
+**Servicios Cognitivos en la Nube**
 
-INTEGRANTES:
-
-• CANCHO HUANCA OSCAR
-
-• MENDOZA HUARCAYA ESTEBAN
-
-• LOPEZ SILVA GINO
-
-• FAJARDO CABREL FRANCO
-
-• ENRIQUEZ ANDRADE ROYER
-
-
-CURSO: SERVICIOS COGNITIVOS IN CLOUD
-
-DOCENTE: CHARLEN MAXIMO CALERO HUAMAN
+## Docente:
+**Charlen Máximo Calero Huamán**
