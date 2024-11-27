@@ -1,11 +1,10 @@
+Enlace del video de EXPOSICION: https://youtu.be/0HlYGYCJPfs
+
 # Alarma que Reconoce Armas, Dinamitas, Granadas y Personas
 
 ## Universidad Privada Norbert Wiener
 ### Escuela de Ingeniería y Negocios
 ### Carrera de Ingeniería de Sistemas
-
-**Enlace del video de EXPOSICION:**
-https://youtu.be/0HlYGYCJPfs
 
 **Descripción del Proyecto:**
 Este proyecto consiste en una alarma que reconoce armas, dinamitas, granadas y a las personas que los posean. La alarma emite un sonido y envía alertas en caso de detección.
