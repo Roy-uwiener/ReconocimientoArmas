@@ -8,7 +8,7 @@
 Este proyecto consiste en una alarma que reconoce armas, dinamitas, granadas y a las personas que los posean. La alarma emite un sonido y envía alertas en caso de detección.
 
 **Enlace del video de EXPOSICION:**
-
+https://youtu.be/0HlYGYCJPfs
 
 ## Integrantes del Proyecto:
 - **Oscar Cancho Huanca**
