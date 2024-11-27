@@ -10,7 +10,7 @@ Este proyecto consiste en una alarma que reconoce armas, dinamitas, granadas y a
 **Enlace del video de EXPOSICION:**
 https://youtu.be/0HlYGYCJPfs
 
-## Integrantes del Proyecto:
+## Grupo 2: Integrantes del Proyecto:
 - **Oscar Cancho Huanca**
 - **Esteban Mendoza Huarcaya**
 - **Gino Lopez Silva**
